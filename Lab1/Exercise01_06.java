@@ -1,4 +1,4 @@
-public class Program6 {
+public class Exercise01_06 {
 	public static void main(String[] args){
     // 14 km in 45 mins 30 sec  
     // calculate average speed

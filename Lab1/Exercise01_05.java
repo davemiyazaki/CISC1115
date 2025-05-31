@@ -1,4 +1,4 @@
-public class Program5 {
+public class Exercise01_05 {
 	public static void main(String[] args){
 		final double PI = 3.14159; // setting constant for PI for ease of use
 		final double circleRadius = 5.5; //setting constsant for circle radius since it won't change
